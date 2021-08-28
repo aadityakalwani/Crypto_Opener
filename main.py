@@ -19,5 +19,6 @@ def open_crypto():
     time.sleep(0.5)
     webbrowser.open("https://cobraswap.finance/")
 
+    print("done")
 
 open_crypto()
