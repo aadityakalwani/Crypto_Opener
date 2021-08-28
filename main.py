@@ -7,7 +7,7 @@ import time
 
 def open_crypto():
     time.sleep(0.5)
-    webbrowser.open("https://alpha.multifarm.fi/assets")
+    webbrowser.open_new("https://alpha.multifarm.fi/assets")
     time.sleep(0.5)
     webbrowser.open("https://pancakeswap.finance/")
     time.sleep(0.5)
