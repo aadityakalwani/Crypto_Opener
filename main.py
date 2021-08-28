@@ -21,4 +21,5 @@ def open_crypto():
 
     print("done")
 
+
 open_crypto()
