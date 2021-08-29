@@ -32,11 +32,11 @@ def open_crypto():
     time.sleep(0.1)
     webbrowser.open_new("https://apeswap.finance/")
     time.sleep(0.1)
-    webbrowser.open_new("https://app.barbecueswap.finance/")
+    webbrowser.open_new("https://www.buffaloswap.org/")
     time.sleep(0.1)
     webbrowser.open_new("https://bear.honeyfarm.finance/")
     time.sleep(0.1)
-    webbrowser.open_new("https://cobraswap.finance/")
+    webbrowser.open_new("https://cobra.exchange/#/staking/pools")
 
     print("done")
 
