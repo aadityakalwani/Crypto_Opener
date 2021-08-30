@@ -37,6 +37,10 @@ def open_crypto():
     webbrowser.open_new("https://bear.honeyfarm.finance/")
     time.sleep(0.1)
     webbrowser.open_new("https://cobra.exchange/#/staking/pools")
+    time.sleep(0.1)
+    webbrowser.open_new("https://babyswap.finance/")
+    time.sleep(0.1)
+    webbrowser.open_new("https://kavian.finance/")
 
     print("done")
 
