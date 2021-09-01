@@ -41,6 +41,8 @@ def open_crypto():
     webbrowser.open_new("https://babyswap.finance/")
     time.sleep(0.1)
     webbrowser.open_new("https://kavian.finance/")
+    time.sleep(0.1)
+    webbrowser.open_new("https://vfat.tools/bsc/")
 
     print("done")
 
